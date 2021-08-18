@@ -1,6 +1,12 @@
 body{
 	background: #fff;
 }
+.header-title{
+	color:green;
+	font-size: 40px;
+	margin-left: 30rem;
+	
+}
 .cart{
 	margin: 100px 0;
 	background-color: #F6F5FA;;
